@@ -23,6 +23,7 @@ def find_the_cheese(maybe_cheese)
   
 end
 
+roll_call_dwarves(["happy"])
 
 
 
